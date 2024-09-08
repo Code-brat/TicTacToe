@@ -47,7 +47,7 @@ class TicTacToe implements ActionListener {
             buttons[i] = new JButton();
             buttonPanel.add(buttons[i]);
             buttons[i].setFont(new Font("MV Boli", Font.BOLD, 120));
-            buttons[i].setFocusable(false);
+            buttons[i].setFocusable(true);
             buttons[i].addActionListener(this);
             
         }
