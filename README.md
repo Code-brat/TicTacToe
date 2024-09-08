@@ -29,11 +29,11 @@ Ensure you have the following installed:
 - Use the numbers 1-9 to indicate where you want to place your mark, with
   the grid numbered as follows:
 
-    1 | 2 | 3
-    ---------
-    4 | 5 | 6
-    ---------
-    7 | 8 | 9
+      1 | 2 | 3
+      ---------
+      4 | 5 | 6
+      ---------
+      7 | 8 | 9
 
 ## Acknowledgments
 
