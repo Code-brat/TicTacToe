@@ -10,10 +10,6 @@ Tic-Tac-Toe game using Java. It includes a text-based interface and basic game l
 - Simple game logic with win/loss/draw detection
 - Easy to extend and modify
 
-## Getting Started
-
-To get started with this project, follow these instructions:
-
 ## Prerequisites
 
 Ensure you have the following installed:
